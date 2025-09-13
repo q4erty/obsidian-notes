@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "af5aefb49bf709c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "586880073c6e638e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52ab8192664c80e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Documents/gcloud.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "gcloud"
+            }
+          },
+          {
+            "id": "cd39d17b55abf254",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "МСПЗ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "МСПЗ"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fc281a6f6c0223c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "2492df287d90f233",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a1752276700026c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a369195a5fba3d59",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c6a59fab5de213b9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "2eb15b072c4c8201",
+    "type": "split",
+    "children": [
+      {
+        "id": "04cb6297ae5b6f17",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82bbc0562c23e7ac",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Presentation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Presentation"
+            }
+          },
+          {
+            "id": "48ddea4243473a14",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Spring/The way/Plan.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Plan"
+            }
+          },
+          {
+            "id": "6c9c078a2bd40fa2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "bf1826712790e0e0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Spring/The way/Plan.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Plan"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "cd39d17b55abf254",
+  "lastOpenFiles": [
+    "Computer Architecture.md",
+    "Documents/gcloud.md",
+    "Presentation.md",
+    "МСПЗ.md",
+    "Documents/env.md",
+    "Documents/Kafka.md",
+    "Documents/SSH.md",
+    "Spring/Core Scopes.md",
+    "Spring/Security.md",
+    "Front end.md",
+    "Documents/GPG (GNU Privacy Guard).md",
+    "Untitled.canvas",
+    "2025-02-19.md",
+    "Тарих эссе.md",
+    "Тарих эссе 2.md",
+    "Documents/MIT License.md",
+    "Spring/The way/Plan.md",
+    "Spring/The way/Projects that need to do.md",
+    "Spring/The way/Advanced plan.md",
+    "Spring/Main aspects of Spring.md",
+    "Spring/Core Spring Data.md",
+    "Spring/Core Spring Boot.md",
+    "Spring/Core application.properties and .yml.md",
+    "Spring/Difference between Spring and Spring Boot.md",
+    "Docker/Docker & Spring Boot.md",
+    "Docker/Commands.md",
+    "Docker/Simple Dockerfile.md",
+    "Docker",
+    "Spring/The way",
+    "Spring/Untitled.canvas",
+    "Documents",
+    "Spring"
+  ]
+}
